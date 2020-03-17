@@ -18,10 +18,10 @@ make
 
 ## Help
 ```
-$ ./long_age_align
+./long_age_align
 ```
 
-## Examples:
+## Examples
 ```
 # INDEL mode (default)
 ./long_age_align part_chr19.fa seq_first.fa 
