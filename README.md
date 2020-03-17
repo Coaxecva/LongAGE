@@ -33,7 +33,7 @@ $ ./long_age_align
 ## Bugs
 
 Feel free to report any bugs that you find on GitHub:
-https://github.com/abyzovlab/CNVpytor/issues
+https://github.com/Coaxecva/LongAGE/issues
 
 ## License
 
