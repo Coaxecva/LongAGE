@@ -1,8 +1,8 @@
 # LongAGE: defining breakpoints of genomic structural variants through optimal and memory efficient alignments of long reads
 
-LongAGE is a memory-efficient implementation of AGE (https://github.com/abyzovlab/AGE). Its memory footprint  is  less  than  hundreds  of  megabytes,  while  it  is  at  most  fourtimes  slower  than  AGE  in  terms  of  running  time.  
+LongAGE is a memory-efficient implementation of AGE (https://github.com/abyzovlab/AGE). Its memory footprint is less than hundreds of megabytes, while it is at most four times slower than AGE  in  terms of running time.  
 
-The tool refines the resolution and standardization of structural variant (SV) breakpoints in highly repetitive regions at a single base pair. It is capable of refining read alignment oncea read has been heuristically mapped to a particular genomic location thatis expected to contain an SV.
+The tool refines the resolution and standardization of structural variant (SV) breakpoints in highly repetitive regions at a single base pair. It is capable of refining read alignment once a read has been heuristically mapped to a particular genomic location that is expected to contain an SV.
 
 ## Compilation
 ```
